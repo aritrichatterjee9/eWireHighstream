@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+Deployed in https://ewirehighstream.vercel.app/ 
+
+![image](https://github.com/aritrichatterjee9/eWireHighstream/assets/73156770/20bb0316-d2c5-4023-9e76-c803231c734d)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
